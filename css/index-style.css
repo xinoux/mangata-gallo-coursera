@@ -314,9 +314,7 @@ body {
 .footer-container {
   margin-top: 2rem;
   padding: 3rem;
-  border-top-left-radius: 1rem;
-  border-top-right-radius: 1rem;
-  background-color: gray;
+  background-color: grey;
 }
 
 .footer-content {
